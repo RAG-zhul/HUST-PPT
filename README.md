@@ -1,5 +1,6 @@
 # HUST简约PPT 主题模板
-华中科技大学先进智能计算与系统课题组ppt参考资料
+鉴于日常做ppt的需求各异，场景不同，往往很难找到合适的模板，基本都需要再定制化。网上流传的一些hust相关ppt（我找到的）很不好使，设计粗糙、图片夸张、附加各种奇怪的动画和音效，借用来时需要频繁修改字体格式等。还有一些ppt看着质量比较高一些，动辄几十块一个，或是需要发pyq挂时长&集赞来获取（特指公众号：华*情报站）。而且这些ppt难以适配新的应用场景，故而仿照
+[THU-Theme-PPT](https://github.com/atomiechen/THU-PPT-Theme)，制作了一些简约主题的“基座ppt”，你可以将其作为母版来使用。
 
 ## 📂 目录结构 (File Structure)
 
@@ -45,6 +46,7 @@ Project_Root
 ## 使用方式  
 
 根据提供的ppt模板，可以直接在其上进行修改使用，也可以进入模板视图进行定制化修改，比如更换ppt背景、logo等。
+
 ---
 具体使用方法： 
 <details>
@@ -60,8 +62,10 @@ Project_Root
 </details>
 
 
-## 🔗 Useful Resources
+## 🔗 Useful Resources  
+
 在这个 PPT 模板仓库中，我们为您整理了一些关键的资源链接，帮助您更好地使用和设计 PPT。以下是与 PPT 相关的有用资源：
+
 1. **[HUST Visual Identity](https://vi.hust.edu.cn/index.htm)**
    <details>
    <summary><strong>作为华中科技大学的官方视觉标识...</strong></summary>
@@ -75,6 +79,7 @@ Project_Root
    </details>
 
 
-## 许可证
-本仓库原创内容采用 [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
-非原创内容版权归原作者所有，仅供学习参考，请勿用于商业用途。
+## License
+[HUST-Theme-PPT](https://github.com/LSTM-zhul/HUST-PPT) © 2025 by [LSTM-zhul](https://github.com/LSTM-zhul) under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
