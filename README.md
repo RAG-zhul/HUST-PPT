@@ -2,25 +2,10 @@
 鉴于日常做ppt的需求各异，场景不同，往往很难找到合适的模板，基本都需要再定制化。网上流传的一些hust相关ppt（我找到的）很不好使，设计粗糙、图片夸张、附加各种奇怪的动画和音效，借用来时需要频繁修改字体格式等。还有一些质量比较高一些的ppt，动辄几十块一个，或是需要发pyq挂时长&集赞来获取（特指公众号：华*情报站）。而且这些ppt难以适配新的应用场景，故而仿照
 [THU-Theme-PPT](https://github.com/atomiechen/THU-PPT-Theme)，制作了一些简约主题的“基座ppt”，你可以将其作为母版来使用。
 
-## View
-
-比例4-3:扁平、顶边、留边和变体。
-<div align="center">
-  <a href="./0figures/demo4-3.png">
-    <img src="./0figures/demo4-3.png" width="100%" alt="4:3 Panorama">
-  </a>
-</div>
-
-比例16—9:v1扁平、v1顶边、v1留边、v2扁平、v3顶边白底、v3留边白底
-<div align="center">
-  <a href="./0figures/demo16-9.png">
-    <img src="./0figures/demo16-9.png" width="100%" alt="16:9 Panorama">
-  </a>
-</div>
-
 ## 📂 structure
 
-本仓库包含 HUST 简约主题模板、相关设计素材以及实验性变体。
+本仓库包含 HUST 简约主题模板、相关设计素材以及实验性变体，总共有两个branch：main和otherPPTs。otherPPTs主要存放搜集到的ppt模板，
+以下是main的目录结构：
 
 ```text
 Project_Root
@@ -37,10 +22,28 @@ Project_Root
 ├── 2Varians-PPT/               # 🧩 其他变体
 │   └── ...                     # 包含特殊进度条、实验性配色等版本
 │
+├── 3logo/                      # hust常用logo
+│
 ├── log.md                      # 📝 修改日志
 │
 └── LICENSE                     # 📄 开源许可证
 ```
+
+## View
+
+比例4-3:扁平、顶边、留边和变体。
+<div align="center">
+  <a href="./0figures/demo4-3.png">
+    <img src="./0figures/demo4-3.png" width="100%" alt="4:3 Panorama">
+  </a>
+</div>
+
+比例16—9:v1扁平、v1顶边、v1留边、v2扁平、v3顶边白底、v3留边白底
+<div align="center">
+  <a href="./0figures/demo16-9.png">
+    <img src="./0figures/demo16-9.png" width="100%" alt="16:9 Panorama">
+  </a>
+</div>
 
 ### 🔍 Description
 为了方便查找，PPT 文件名遵循以下命名规范：
