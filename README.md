@@ -1,6 +1,6 @@
 # HUST简约PPT 主题模板
 鉴于日常做ppt的需求各异，场景不同，往往很难找到合适的模板，基本都需要再定制化。网上流传的一些hust相关ppt（我找到的）很不好使，设计粗糙、图片夸张、附加各种奇怪的动画和音效，借用来时需要频繁修改字体格式等。还有一些质量比较高一些的ppt，动辄几十块一个，或是需要发pyq挂时长&集赞来获取（特指公众号：华*情报站）。而且这些ppt难以适配新的应用场景，故而仿照
-[THU-Theme-PPT](https://github.com/atomiechen/THU-PPT-Theme)，制作了一些简约主题的“基座ppt”，你可以将其作为母版来使用。
+[THU-Theme-PPT](https://github.com/atomiechen/THU-PPT-Theme)，制作了一些简约主题的“基座ppt”，你可以将其作为母版来使用。 
 
 ## 📂 structure
 
